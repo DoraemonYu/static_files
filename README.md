@@ -7,5 +7,5 @@ With CDN support from jsDelivr, static files could be loaded more faster and sav
 If you are interested in it, you can google by yourself with the keywords about ***github + jsDelivr + CDN***  
  
  
-Since I just use it to host static files, therefore, maybe in this repository, there is nothing valuable for you.  
+Since I just use it to host static files, therefore, in this repository, there maybe nothing more valuable for you.  
 However, you can visit my other repositorys  [https://doraemonyu.github.io]  I hope you could enjoy them, thanks and have a good day :)
