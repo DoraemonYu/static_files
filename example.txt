@@ -1,0 +1,5 @@
+origin url:
+https://github.com/DoraemonYu/static_files/blob/master/common/BeiAn.png
+
+cdn url:
+https://cdn.jsdelivr.net/gh/DoraemonYu/static_files/common/BeiAn.png
