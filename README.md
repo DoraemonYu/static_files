@@ -1,8 +1,8 @@
 # About
 Hello, pleased to meet you.  
-This repository is used to host static files for my personal websites.  
+This repository is used to host static files for my repositories and my personal websites.  
 With CDN support from jsDelivr, static files could be loaded more faster and save my resources of website server.  
-( BTW, here, I want to thanks github and jsDelivr. )  
+( BTW, here, I wanna thank github and jsDelivr. )  
  
 If you are interested in it, you can google by yourself with the keywords about ***github + jsDelivr + CDN***  
  
