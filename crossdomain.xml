@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cross-domain-policy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.adobe.com/xml/schemas/PolicyFile.xsd">
+    <allow-access-from domain="*.yuyangzhou.name" />
+    <allow-access-from domain="*.doraemon-yu.site" />
+    <site-control permitted-cross-domain-policies="master-only"/>
+    <allow-http-request-headers-from domain="*.yuyangzhou.name" headers="*" />
+    <allow-http-request-headers-from domain="*.doraemon-yu.site" headers="*" />
+</cross-domain-policy>
