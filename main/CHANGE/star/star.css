@@ -1,0 +1,44 @@
+@-webkit-keyframes STAR-MOVE {
+	from {
+		background-position:0% 800%
+	}
+	to { 
+		background-position: 0% 0%
+	}
+}
+@keyframes STAR-MOVE {
+	from {
+		background-position: 0% 800%
+	}
+	to { 
+		background-position: 0% 0%
+	}
+}
+
+.wall{
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	
+	height:85px;
+	max-height:85px;
+	pointer-events: none;
+}
+div.star-midground{
+	background:url('midground.png')repeat 20% 0%;
+	z-index: 1;
+	-webkit-animation: STAR-MOVE  100s linear infinite;
+	-moz-animation: STAR-MOVE  100s linear infinite;
+	-ms-animation: STAR-MOVE  100s linear infinite;
+	animation: STAR-MOVE  100s linear infinite;
+}
+div.star-foreground{
+	background:url('foreground.png')repeat 35% 0%;
+	z-index: 2;
+	-webkit-animation: STAR-MOVE  50s linear infinite;
+	-moz-animation: STAR-MOVE  50s linear infinite;
+	-ms-animation: STAR-MOVE  50s linear infinite;
+	animation: STAR-MOVE  50s linear infinite;
+}
